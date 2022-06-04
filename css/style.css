@@ -183,6 +183,12 @@ ul.ddmenu ul ul {
 }
 
 /*---------- セクション ---------- */
+.sec03 {
+  margin: 0 0 0 0;
+	height: auto;
+	background-color: #dcdcdc;
+}
+
 .sec04 {
   margin: 0 0 0 0;
 	height: auto;
